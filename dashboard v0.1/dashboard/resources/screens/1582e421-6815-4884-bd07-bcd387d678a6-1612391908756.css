@@ -302,6 +302,80 @@ _:-ms-fullscreen, :root #s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Rectangle_4 {
   font-size: 10.0pt;
 }
 
+#s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Rectangle_5 {
+  position: absolute;
+  width: 130.0px;
+  min-height: 41.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  filter: none;
+  text-shadow: none;
+  cursor: pointer;
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  font-size: 0pt;
+  font-family: 'OpenSans-Regular',Arial;
+}
+
+_:-ms-fullscreen, :root #s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Rectangle_5 {
+  box-shadow: none;
+}
+
+#s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Rectangle_5 > .backgroundLayer {
+  border-radius: 3px 3px 0px 0px;
+}
+
+#s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Rectangle_5 > .backgroundLayer > .colorLayer {
+  background-color: #F2F2F2;
+}
+
+#s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Rectangle_5 > .borderLayer {
+  border-top-width: 0px;
+  border-top-style: solid;
+  border-top-color: #404040;
+  border-right-width: 0px;
+  border-right-style: solid;
+  border-right-color: #404040;
+  border-left-width: 0px;
+  border-left-style: solid;
+  border-left-color: #404040;
+  border-radius: 3px 3px 0px 0px;
+}
+
+#s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Rectangle_5 > .backgroundLayer {
+  border-radius: 3px 3px 0px 0px;
+}
+
+#s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Rectangle_5 .paddingLayer:first-child {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+
+#s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Rectangle_5 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+
+#s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Rectangle_5 span {
+  color: #5E5E5E;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'OpenSans-Regular',Arial;
+  font-size: 10.0pt;
+}
+
+#s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Rectangle_5 span#rtr-s-Rectangle_5_0 {
+  color: #5E5E5E;
+  text-decoration: none;
+  font-family: 'OpenSans-Regular',Arial;
+  font-size: 10.0pt;
+}
+
 #s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Toggle-switch {
   position: absolute;
   -webkit-transform: rotate(0.0deg);

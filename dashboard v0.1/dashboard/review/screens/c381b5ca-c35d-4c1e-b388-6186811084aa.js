@@ -2,8 +2,8 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1" width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1612389259675.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1612389259675-ie.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1612391908756.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/templates/f39803f7-df02-4169-93eb-7547fb8c961a-1612391908756-ie.css" /><![endif]-->\
       <!--[if lte IE 8]><![endif]-->\
       <div class="freeLayout">\
       </div>\
@@ -15,9 +15,9 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
     <div id="s-c381b5ca-c35d-4c1e-b388-6186811084aa" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Insights_basic" width="1280" height="800">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/c381b5ca-c35d-4c1e-b388-6186811084aa-1612389259675.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/c381b5ca-c35d-4c1e-b388-6186811084aa-1612389259675-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/c381b5ca-c35d-4c1e-b388-6186811084aa-1612389259675-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/c381b5ca-c35d-4c1e-b388-6186811084aa-1612391908756.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/c381b5ca-c35d-4c1e-b388-6186811084aa-1612391908756-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/c381b5ca-c35d-4c1e-b388-6186811084aa-1612391908756-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group_1" datasizewidth="517.0px" datasizeheight="41.0px" >\
         <div id="s-Rectangle_1" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_1"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="892.0" dataY="0.0" >\
@@ -75,6 +75,21 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
               <div class="content">\
                 <div class="valign">\
                   <span id="rtr-s-Rectangle_4_0">Simulation Setup</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Rectangle_5" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_1"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="633.0" dataY="-0.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_5_0">Home</span>\
                 </div>\
               </div>\
             </div>\
