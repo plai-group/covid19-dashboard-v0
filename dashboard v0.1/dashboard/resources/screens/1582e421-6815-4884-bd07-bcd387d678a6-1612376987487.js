@@ -807,5 +807,125 @@ jQuery("#simulation")
         ];
         jEvent.launchCases(cases);
       }
+    } else if(jFirer.is("#s-Hotspot_14")) {
+      if(jFirer.data("jimHasToggle")) {
+        jFirer.removeData("jimHasToggle");
+        jEvent.undoCases(jFirer);
+      } else {
+        jFirer.data("jimHasToggle", true);
+        event.backupState = true;
+        event.target = jFirer;
+        cases = [
+          {
+            "blocks": [
+              {
+                "actions": [
+                  {
+                    "action": "jimChangeStyle",
+                    "parameter": [ {
+                      "#s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Rectangle_22": {
+                        "attributes": {
+                          "font-size": "0pt"
+                        }
+                      }
+                    },{
+                      "#s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Rectangle_22 > .backgroundLayer > .colorLayer": {
+                        "attributes": {
+                          "background-color": "#CBCBCB"
+                        }
+                      }
+                    } ],
+                    "exectype": "serial",
+                    "delay": 0
+                  }
+                ]
+              }
+            ],
+            "exectype": "serial",
+            "delay": 0
+          }
+        ];
+        jEvent.launchCases(cases);
+      }
+    } else if(jFirer.is("#s-Hotspot_15")) {
+      if(jFirer.data("jimHasToggle")) {
+        jFirer.removeData("jimHasToggle");
+        jEvent.undoCases(jFirer);
+      } else {
+        jFirer.data("jimHasToggle", true);
+        event.backupState = true;
+        event.target = jFirer;
+        cases = [
+          {
+            "blocks": [
+              {
+                "actions": [
+                  {
+                    "action": "jimChangeStyle",
+                    "parameter": [ {
+                      "#s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Rectangle_23": {
+                        "attributes": {
+                          "font-size": "0pt"
+                        }
+                      }
+                    },{
+                      "#s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Rectangle_23 > .backgroundLayer > .colorLayer": {
+                        "attributes": {
+                          "background-color": "#CBCBCB"
+                        }
+                      }
+                    } ],
+                    "exectype": "serial",
+                    "delay": 0
+                  }
+                ]
+              }
+            ],
+            "exectype": "serial",
+            "delay": 0
+          }
+        ];
+        jEvent.launchCases(cases);
+      }
+    } else if(jFirer.is("#s-Hotspot_16")) {
+      if(jFirer.data("jimHasToggle")) {
+        jFirer.removeData("jimHasToggle");
+        jEvent.undoCases(jFirer);
+      } else {
+        jFirer.data("jimHasToggle", true);
+        event.backupState = true;
+        event.target = jFirer;
+        cases = [
+          {
+            "blocks": [
+              {
+                "actions": [
+                  {
+                    "action": "jimChangeStyle",
+                    "parameter": [ {
+                      "#s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Rectangle_24": {
+                        "attributes": {
+                          "font-size": "0pt"
+                        }
+                      }
+                    },{
+                      "#s-1582e421-6815-4884-bd07-bcd387d678a6 #s-Rectangle_24 > .backgroundLayer > .colorLayer": {
+                        "attributes": {
+                          "background-color": "#CBCBCB"
+                        }
+                      }
+                    } ],
+                    "exectype": "serial",
+                    "delay": 0
+                  }
+                ]
+              }
+            ],
+            "exectype": "serial",
+            "delay": 0
+          }
+        ];
+        jEvent.launchCases(cases);
+      }
     }
   });

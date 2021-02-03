@@ -38,9 +38,9 @@ document.write("<script type='text/javascript' charset='utf-8' src='./resources/
 document.write("<script type='text/javascript' charset='utf-8' src='./resources/jim/javascript/component-jim-customSlider.js'></script>");
 document.write("<script type='text/javascript' charset='utf-8' src='./resources/jim/javascript/function-jim-device.js'></script>");
 document.write("<script type='text/javascript' charset='utf-8' src='./resources/jim/javascript/function-jim-webdevice.js'></script>");
-document.write("<script type='text/javascript' charset='utf-8' src='./resources/scenarios/function-jim-links1612375893171.js'></script>");
-document.write("<script type='text/javascript' charset='utf-8' src='./resources/lookup-1612375893171.js'></script>");
-document.write("<script type='text/javascript' charset='utf-8' src='./resources/screens/1582e421-6815-4884-bd07-bcd387d678a6-1612375893171.js'></script>");
-document.write("<script type='text/javascript' charset='utf-8' src='./resources/screens/643b2f37-782d-4375-b406-7ed489de06d7-1612375893171.js'></script>");
-document.write("<script type='text/javascript' charset='utf-8' src='./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1612375893171.js'></script>");
-document.write("<script type='text/javascript' charset='utf-8' src='./resources/screens/c381b5ca-c35d-4c1e-b388-6186811084aa-1612375893171.js'></script>");
+document.write("<script type='text/javascript' charset='utf-8' src='./resources/scenarios/function-jim-links1612376987487.js'></script>");
+document.write("<script type='text/javascript' charset='utf-8' src='./resources/lookup-1612376987487.js'></script>");
+document.write("<script type='text/javascript' charset='utf-8' src='./resources/screens/1582e421-6815-4884-bd07-bcd387d678a6-1612376987487.js'></script>");
+document.write("<script type='text/javascript' charset='utf-8' src='./resources/screens/643b2f37-782d-4375-b406-7ed489de06d7-1612376987487.js'></script>");
+document.write("<script type='text/javascript' charset='utf-8' src='./resources/screens/d12245cc-1680-458d-89dd-4f0d7fb22724-1612376987487.js'></script>");
+document.write("<script type='text/javascript' charset='utf-8' src='./resources/screens/c381b5ca-c35d-4c1e-b388-6186811084aa-1612376987487.js'></script>");
