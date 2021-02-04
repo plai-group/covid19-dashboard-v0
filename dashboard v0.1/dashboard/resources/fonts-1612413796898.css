@@ -4,6 +4,11 @@
        url("../fonts/OpenSans-Regular.ttf")  format("truetype");
 }
 @font-face {
+  font-family: "OpenSans-Semibold";
+  src: url("../fonts/OpenSans-Semibold.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/OpenSans-Semibold.ttf")  format("truetype");
+}
+@font-face {
   font-family: "OpenSans-Light";
   src: url("../fonts/OpenSans-Light.eot?#iefix") format("embedded-opentype"),
        url("../fonts/OpenSans-Light.ttf")  format("truetype");

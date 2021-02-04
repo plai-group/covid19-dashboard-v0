@@ -12,15 +12,15 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       <div id="loadMark"></div>\
     </div>\
 \
-    <div id="s-643b2f37-782d-4375-b406-7ed489de06d7" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Results_basic" width="1280" height="700">\
+    <div id="s-829efce9-60d8-4623-a234-8124393e7d30" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Results_advanced" width="1280" height="700">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/643b2f37-782d-4375-b406-7ed489de06d7-1612413796898.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/643b2f37-782d-4375-b406-7ed489de06d7-1612413796898-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/643b2f37-782d-4375-b406-7ed489de06d7-1612413796898-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/829efce9-60d8-4623-a234-8124393e7d30-1612413796898.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/829efce9-60d8-4623-a234-8124393e7d30-1612413796898-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/829efce9-60d8-4623-a234-8124393e7d30-1612413796898-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group_1" datasizewidth="517.0px" datasizeheight="41.0px" >\
-        <div id="s-Rectangle_1" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_1"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="892.0" dataY="0.0" >\
+        <div id="s-Rectangle_1" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_1"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="762.0" dataY="0.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -35,7 +35,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Rectangle_2" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_2"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="1021.0" dataY="0.0" >\
+        <div id="s-Rectangle_2" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_2"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="891.0" dataY="0.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -50,7 +50,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Rectangle_3" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_3"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="1150.0" dataY="0.0" >\
+        <div id="s-Rectangle_3" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_3"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="1020.0" dataY="0.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -65,7 +65,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Rectangle_4" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_4"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="763.0" dataY="0.0" >\
+        <div id="s-Rectangle_4" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_4"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="633.0" dataY="0.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -80,7 +80,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Rectangle_18" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_4"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="633.0" dataY="-0.0" >\
+        <div id="s-Rectangle_18" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_4"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="503.0" dataY="0.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -90,6 +90,21 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
               <div class="content">\
                 <div class="valign">\
                   <span id="rtr-s-Rectangle_18_0">Home</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
+        <div id="s-Rectangle_19" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_4"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="1150.0" dataY="0.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_19_0">Compute Jobs</span>\
                 </div>\
               </div>\
             </div>\
@@ -182,7 +197,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="imageLayer"></div>\
         </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100" readonly="readonly" tabindex="-1" placeholder="View"/></div></div>  </div></div></div>\
 \
-        <div id="s-arrow" class="pie image firer click ie-background commentable non-processed" customid="arrow"   datasizewidth="19.0px" datasizeheight="10.0px" dataX="427.0" dataY="130.0"   alt="image" systemName="./images/3ca1354a-8e50-41cd-94b0-813081528e3c.svg" overlay="">\
+        <div id="s-arrow" class="pie image firer click ie-background commentable non-processed" customid="arrow"   datasizewidth="19.0px" datasizeheight="10.0px" dataX="427.0" dataY="130.0"   alt="image" systemName="./images/04a11e66-73a3-445f-9fdb-11d0abe62e8a.svg" overlay="">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -217,7 +232,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
 \
-      <div id="s-Image_2" class="pie image firer ie-background commentable non-processed" customid="Image_1"   datasizewidth="590.2px" datasizeheight="424.0px" dataX="680.0" dataY="199.0"   alt="image">\
+      <div id="s-Image_2" class="pie image firer ie-background commentable non-processed" customid="Image_1"   datasizewidth="590.2px" datasizeheight="424.0px" dataX="669.5" dataY="199.0"   alt="image">\
         <div class="borderLayer">\
         	<div class="imageViewport">\
         		<img src="./images/6da70c03-d6ee-4e1f-9b41-191cd24d05b5.gif" />\
@@ -310,7 +325,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="imageLayer"></div>\
         </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100" readonly="readonly" tabindex="-1" placeholder="County/division"/></div></div>  </div></div></div>\
 \
-        <div id="s-arrow_1" class="pie image firer click ie-background commentable non-processed" customid="arrow"   datasizewidth="19.0px" datasizeheight="10.0px" dataX="803.0" dataY="130.0"   alt="image" systemName="./images/6e613eaf-7946-4dc0-9c7e-a0600173d0a5.svg" overlay="">\
+        <div id="s-arrow_1" class="pie image firer click ie-background commentable non-processed" customid="arrow"   datasizewidth="19.0px" datasizeheight="10.0px" dataX="803.0" dataY="130.0"   alt="image" systemName="./images/058c4213-c190-4efb-acb4-cbdfdc2a72ab.svg" overlay="">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -393,7 +408,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Rectangle_8_0">Switch to <br />Advanced Mode</span>\
+                <span id="rtr-s-Rectangle_8_0">Switch to <br />Basic Mode</span>\
               </div>\
             </div>\
           </div>\

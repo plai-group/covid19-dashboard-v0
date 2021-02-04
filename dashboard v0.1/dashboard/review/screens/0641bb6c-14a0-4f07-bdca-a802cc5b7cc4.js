@@ -12,15 +12,15 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       <div id="loadMark"></div>\
     </div>\
 \
-    <div id="s-1582e421-6815-4884-bd07-bcd387d678a6" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Policy Options_basic" width="1280" height="700">\
+    <div id="s-0641bb6c-14a0-4f07-bdca-a802cc5b7cc4" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Policy Options_advanced" width="1280" height="700">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./resources/screens/1582e421-6815-4884-bd07-bcd387d678a6-1612413796898.css" />\
-      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/1582e421-6815-4884-bd07-bcd387d678a6-1612413796898-ie.css" /><![endif]-->\
-      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/1582e421-6815-4884-bd07-bcd387d678a6-1612413796898-ie8.css" /><![endif]-->\
+      <link type="text/css" rel="stylesheet" href="./resources/screens/0641bb6c-14a0-4f07-bdca-a802cc5b7cc4-1612413796898.css" />\
+      <!--[if IE]><link type="text/css" rel="stylesheet" href="./resources/screens/0641bb6c-14a0-4f07-bdca-a802cc5b7cc4-1612413796898-ie.css" /><![endif]-->\
+      <!--[if lte IE 8]><link type="text/css" rel="stylesheet" href="./resources/screens/0641bb6c-14a0-4f07-bdca-a802cc5b7cc4-1612413796898-ie8.css" /><![endif]-->\
       <div class="freeLayout">\
       <div id="s-Group_1" class="group firer ie-background commentable non-processed" customid="Group_1" datasizewidth="517.0px" datasizeheight="41.0px" >\
-        <div id="s-Rectangle_1" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_1"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="892.0" dataY="0.0" >\
+        <div id="s-Rectangle_1" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_1"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="762.0" dataY="0.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -35,7 +35,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Rectangle_2" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_2"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="1021.0" dataY="0.0" >\
+        <div id="s-Rectangle_2" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_2"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="891.0" dataY="0.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -50,7 +50,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Rectangle_3" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_3"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="1150.0" dataY="0.0" >\
+        <div id="s-Rectangle_3" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_3"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="1020.0" dataY="0.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -65,7 +65,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Rectangle_4" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_4"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="763.0" dataY="0.0" >\
+        <div id="s-Rectangle_4" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_4"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="633.0" dataY="0.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -80,7 +80,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
-        <div id="s-Rectangle_5" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_4"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="633.0" dataY="-0.0" >\
+        <div id="s-Rectangle_5" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_4"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="503.0" dataY="0.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -95,9 +95,24 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
             </div>\
           </div>\
         </div>\
+        <div id="s-Rectangle_6" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_4"   datasizewidth="130.0px" datasizeheight="41.0px" datasizewidthpx="130.0" datasizeheightpx="41.0" dataX="1150.0" dataY="0.0" >\
+          <div class="backgroundLayer">\
+            <div class="colorLayer"></div>\
+            <div class="imageLayer"></div>\
+          </div>\
+          <div class="borderLayer">\
+            <div class="paddingLayer">\
+              <div class="content">\
+                <div class="valign">\
+                  <span id="rtr-s-Rectangle_6_0">Compute Jobs</span>\
+                </div>\
+              </div>\
+            </div>\
+          </div>\
+        </div>\
       </div>\
 \
-      <div id="s-Paragraph_2" class="pie richtext manualfit firer commentable non-processed" customid="Paragraph_2"   datasizewidth="1280.0px" datasizeheight="35.0px" dataX="-0.0" dataY="43.0" >\
+      <div id="s-Paragraph_2" class="pie richtext manualfit firer commentable non-processed" customid="Paragraph_2"   datasizewidth="1280.0px" datasizeheight="43.0px" dataX="0.0" dataY="41.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -114,7 +129,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
       <div id="s-Checkbox_1" class="group firer ie-background commentable non-processed" customid="Checkbox_1" datasizewidth="22.0px" datasizeheight="22.0px" >\
-        <div id="s-Rectangle_7" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="38.0" dataY="111.0" >\
+        <div id="s-Rectangle_7" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="38.0" dataY="103.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -130,7 +145,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_2" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="44.0" dataY="118.0" aspectRatio="0.8181818"   alt="image" systemName="./images/37c6a16b-2acf-48e2-834d-c8b9cf37a8b9.svg" overlay="#FFFFFF">\
+        <div id="s-Image_2" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="44.0" dataY="110.0" aspectRatio="0.8181818"   alt="image" systemName="./images/94d06050-4397-450a-a62d-805342b111b0.svg" overlay="#FFFFFF">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -152,12 +167,12 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Hotspot_1" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="38.0" dataY="111.0"  >\
+        <div id="s-Hotspot_1" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="38.0" dataY="103.0"  >\
           <div class="clickableSpot"></div>\
         </div>\
       </div>\
 \
-      <div id="s-Text_3" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="189.4px" datasizeheight="19.0px" dataX="79.4" dataY="111.0" >\
+      <div id="s-Text_3" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="189.4px" datasizeheight="19.0px" dataX="79.4" dataY="103.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -172,13 +187,13 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Input_4" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="160.0px" datasizeheight="46.0px" dataX="363.0" dataY="99.0" ><div class="backgroundLayer">\
+      <div id="s-Input_4" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="160.0px" datasizeheight="46.0px" dataX="363.0" dataY="91.0" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Lorem ipsum"/></div></div>  </div></div></div>\
 \
       <div id="s-Checkbox_2" class="group firer ie-background commentable non-processed" customid="Checkbox_1" datasizewidth="22.0px" datasizeheight="22.0px" >\
-        <div id="s-Rectangle_9" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="38.0" dataY="173.0" >\
+        <div id="s-Rectangle_9" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="38.0" dataY="165.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -194,7 +209,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_3" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="44.0" dataY="180.0" aspectRatio="0.8181818"   alt="image" systemName="./images/302ab23c-135a-483f-990b-49ffe5cc0b29.svg" overlay="#FFFFFF">\
+        <div id="s-Image_3" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="44.0" dataY="172.0" aspectRatio="0.8181818"   alt="image" systemName="./images/35bacb8a-28db-4da6-9945-155d73be1175.svg" overlay="#FFFFFF">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -216,14 +231,14 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Hotspot_2" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="38.0" dataY="173.0"  >\
+        <div id="s-Hotspot_2" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="38.0" dataY="165.0"  >\
           <div class="clickableSpot"></div>\
         </div>\
       </div>\
 \
 \
       <div id="s-Checkbox_3" class="group firer ie-background commentable non-processed" customid="Checkbox_1" datasizewidth="22.0px" datasizeheight="22.0px" >\
-        <div id="s-Rectangle_11" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="38.0" dataY="240.0" >\
+        <div id="s-Rectangle_11" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="38.0" dataY="232.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -239,7 +254,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_4" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="44.0" dataY="247.0" aspectRatio="0.8181818"   alt="image" systemName="./images/f9756528-1b0e-4bb1-a905-1d918a7f0e70.svg" overlay="#FFFFFF">\
+        <div id="s-Image_4" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="44.0" dataY="239.0" aspectRatio="0.8181818"   alt="image" systemName="./images/b71c057f-04a5-4081-a344-ad950fa15e4e.svg" overlay="#FFFFFF">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -261,14 +276,14 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Hotspot_3" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="38.0" dataY="240.0"  >\
+        <div id="s-Hotspot_3" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="38.0" dataY="232.0"  >\
           <div class="clickableSpot"></div>\
         </div>\
       </div>\
 \
 \
       <div id="s-Checkbox_4" class="group firer ie-background commentable non-processed" customid="Checkbox_1" datasizewidth="22.0px" datasizeheight="22.0px" >\
-        <div id="s-Rectangle_12" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="718.0" dataY="111.0" >\
+        <div id="s-Rectangle_12" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="718.0" dataY="103.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -284,7 +299,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_5" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="724.0" dataY="118.0" aspectRatio="0.8181818"   alt="image" systemName="./images/37984f2d-352a-4cb5-b1c2-50202769b950.svg" overlay="#FFFFFF">\
+        <div id="s-Image_5" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="724.0" dataY="110.0" aspectRatio="0.8181818"   alt="image" systemName="./images/318f83ce-d180-4f6b-bac3-c2b94b1baf92.svg" overlay="#FFFFFF">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -306,14 +321,14 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Hotspot_4" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="718.0" dataY="111.0"  >\
+        <div id="s-Hotspot_4" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="718.0" dataY="103.0"  >\
           <div class="clickableSpot"></div>\
         </div>\
       </div>\
 \
 \
       <div id="s-Checkbox_5" class="group firer ie-background commentable non-processed" customid="Checkbox_1" datasizewidth="22.0px" datasizeheight="22.0px" >\
-        <div id="s-Rectangle_13" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="718.0" dataY="173.0" >\
+        <div id="s-Rectangle_13" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="718.0" dataY="165.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -329,7 +344,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_6" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="724.0" dataY="180.0" aspectRatio="0.8181818"   alt="image" systemName="./images/9f4c145e-201a-44ed-952f-f24f4aaaac64.svg" overlay="#FFFFFF">\
+        <div id="s-Image_6" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="724.0" dataY="172.0" aspectRatio="0.8181818"   alt="image" systemName="./images/b327bdb1-eeb4-4b15-a073-d1cbc207aaad.svg" overlay="#FFFFFF">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -351,14 +366,14 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Hotspot_5" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="718.0" dataY="173.0"  >\
+        <div id="s-Hotspot_5" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="718.0" dataY="165.0"  >\
           <div class="clickableSpot"></div>\
         </div>\
       </div>\
 \
 \
       <div id="s-Checkbox_6" class="group firer ie-background commentable non-processed" customid="Checkbox_1" datasizewidth="22.0px" datasizeheight="22.0px" >\
-        <div id="s-Rectangle_14" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="718.0" dataY="240.0" >\
+        <div id="s-Rectangle_14" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="718.0" dataY="232.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -374,7 +389,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_7" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="724.0" dataY="247.0" aspectRatio="0.8181818"   alt="image" systemName="./images/32a793f0-f3df-44af-88ea-92a9fa60e618.svg" overlay="#FFFFFF">\
+        <div id="s-Image_7" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="724.0" dataY="239.0" aspectRatio="0.8181818"   alt="image" systemName="./images/f75c321f-c9f1-4cda-87b4-75a53e0cb79f.svg" overlay="#FFFFFF">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -396,12 +411,12 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Hotspot_6" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="718.0" dataY="240.0"  >\
+        <div id="s-Hotspot_6" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="718.0" dataY="232.0"  >\
           <div class="clickableSpot"></div>\
         </div>\
       </div>\
 \
-      <div id="s-Text_4" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="215.7px" datasizeheight="19.0px" dataX="79.4" dataY="175.0" >\
+      <div id="s-Text_4" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="215.7px" datasizeheight="19.0px" dataX="79.4" dataY="167.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -416,7 +431,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Text_5" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="220.9px" datasizeheight="19.0px" dataX="79.4" dataY="242.0" >\
+      <div id="s-Text_5" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="220.9px" datasizeheight="19.0px" dataX="79.4" dataY="234.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -431,7 +446,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Text_6" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="141.0px" datasizeheight="19.0px" dataX="763.0" dataY="242.0" >\
+      <div id="s-Text_6" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="141.0px" datasizeheight="19.0px" dataX="763.0" dataY="234.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -446,7 +461,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Text_7" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="197.8px" datasizeheight="19.0px" dataX="763.0" dataY="175.0" >\
+      <div id="s-Text_7" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="197.8px" datasizeheight="19.0px" dataX="763.0" dataY="167.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -461,7 +476,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Text_8" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="155.2px" datasizeheight="19.0px" dataX="763.0" dataY="111.0" >\
+      <div id="s-Text_8" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="155.2px" datasizeheight="19.0px" dataX="763.0" dataY="103.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -476,27 +491,27 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Input_5" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="160.0px" datasizeheight="46.0px" dataX="363.0" dataY="161.5" ><div class="backgroundLayer">\
+      <div id="s-Input_5" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="160.0px" datasizeheight="46.0px" dataX="363.0" dataY="153.5" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Lorem ipsum"/></div></div>  </div></div></div>\
-      <div id="s-Input_6" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="160.0px" datasizeheight="46.0px" dataX="363.0" dataY="228.5" ><div class="backgroundLayer">\
+      <div id="s-Input_6" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="160.0px" datasizeheight="46.0px" dataX="363.0" dataY="220.5" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Lorem ipsum"/></div></div>  </div></div></div>\
-      <div id="s-Input_7" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="160.0px" datasizeheight="46.0px" dataX="985.0" dataY="99.5" ><div class="backgroundLayer">\
+      <div id="s-Input_7" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="160.0px" datasizeheight="46.0px" dataX="985.0" dataY="91.5" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Lorem ipsum"/></div></div>  </div></div></div>\
-      <div id="s-Input_8" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="160.0px" datasizeheight="46.0px" dataX="985.0" dataY="161.5" ><div class="backgroundLayer">\
+      <div id="s-Input_8" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="160.0px" datasizeheight="46.0px" dataX="985.0" dataY="153.5" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Lorem ipsum"/></div></div>  </div></div></div>\
-      <div id="s-Input_9" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="160.0px" datasizeheight="46.0px" dataX="985.0" dataY="228.5" ><div class="backgroundLayer">\
+      <div id="s-Input_9" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="160.0px" datasizeheight="46.0px" dataX="985.0" dataY="220.5" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Lorem ipsum"/></div></div>  </div></div></div>\
-      <div id="s-Paragraph_3" class="pie richtext manualfit firer commentable non-processed" customid="Paragraph_2"   datasizewidth="1280.0px" datasizeheight="40.0px" dataX="0.0" dataY="278.0" >\
+      <div id="s-Paragraph_3" class="pie richtext manualfit firer commentable non-processed" customid="Paragraph_2"   datasizewidth="1280.0px" datasizeheight="45.0px" dataX="0.0" dataY="276.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -513,7 +528,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
       <div id="s-Checkbox_7" class="group firer ie-background commentable non-processed" customid="Checkbox_1" datasizewidth="22.0px" datasizeheight="22.0px" >\
-        <div id="s-Rectangle_15" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="38.0" dataY="346.0" >\
+        <div id="s-Rectangle_15" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="38.0" dataY="333.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -529,7 +544,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_8" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="44.0" dataY="353.0" aspectRatio="0.8181818"   alt="image" systemName="./images/0925cb8c-0278-4b9b-abc2-7d32f9687b0b.svg" overlay="#FFFFFF">\
+        <div id="s-Image_8" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="44.0" dataY="340.0" aspectRatio="0.8181818"   alt="image" systemName="./images/a2f794f1-06c4-4ea3-bbbf-334addfe90af.svg" overlay="#FFFFFF">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -551,12 +566,12 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Hotspot_7" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="38.0" dataY="346.0"  >\
+        <div id="s-Hotspot_7" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="38.0" dataY="333.0"  >\
           <div class="clickableSpot"></div>\
         </div>\
       </div>\
 \
-      <div id="s-Paragraph_1" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="97.1px" datasizeheight="15.0px" dataX="79.0" dataY="350.0" >\
+      <div id="s-Paragraph_1" class="pie richtext autofit firer ie-background commentable non-processed" customid="Paragraph"   datasizewidth="97.1px" datasizeheight="15.0px" dataX="79.0" dataY="337.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -571,7 +586,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Text_9" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="144.7px" datasizeheight="19.0px" dataX="330.0" dataY="348.0" >\
+      <div id="s-Text_9" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="144.7px" datasizeheight="19.0px" dataX="330.0" dataY="335.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -586,7 +601,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Text_10" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="175.8px" datasizeheight="19.0px" dataX="763.0" dataY="346.0" >\
+      <div id="s-Text_10" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="175.8px" datasizeheight="19.0px" dataX="763.0" dataY="333.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -601,17 +616,17 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Input_10" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="170.0px" datasizeheight="46.0px" dataX="502.0" dataY="334.5" ><div class="backgroundLayer">\
+      <div id="s-Input_10" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="170.0px" datasizeheight="46.0px" dataX="502.0" dataY="321.5" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Lorem ipsum"/></div></div>  </div></div></div>\
-      <div id="s-Input_11" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="170.0px" datasizeheight="46.0px" dataX="980.0" dataY="334.5" ><div class="backgroundLayer">\
+      <div id="s-Input_11" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="170.0px" datasizeheight="46.0px" dataX="980.0" dataY="321.5" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Lorem ipsum"/></div></div>  </div></div></div>\
 \
       <div id="s-Checkbox_8" class="group firer ie-background commentable non-processed" customid="Checkbox_1" datasizewidth="22.0px" datasizeheight="22.0px" >\
-        <div id="s-Rectangle_16" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="38.0" dataY="416.0" >\
+        <div id="s-Rectangle_16" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="38.0" dataY="403.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -627,7 +642,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_9" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="44.0" dataY="423.0" aspectRatio="0.8181818"   alt="image" systemName="./images/050b736b-f7d0-439b-a6c4-3561bd62571c.svg" overlay="#FFFFFF">\
+        <div id="s-Image_9" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="44.0" dataY="410.0" aspectRatio="0.8181818"   alt="image" systemName="./images/8b2fca3d-5e8d-4c68-b583-c26d9fb62f5b.svg" overlay="#FFFFFF">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -649,12 +664,12 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Hotspot_8" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="38.0" dataY="416.0"  >\
+        <div id="s-Hotspot_8" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="38.0" dataY="403.0"  >\
           <div class="clickableSpot"></div>\
         </div>\
       </div>\
 \
-      <div id="s-Text_11" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="195.7px" datasizeheight="19.0px" dataX="79.4" dataY="418.0" >\
+      <div id="s-Text_11" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="195.7px" datasizeheight="19.0px" dataX="79.4" dataY="405.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -669,7 +684,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Text_12" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="144.7px" datasizeheight="19.0px" dataX="330.0" dataY="418.0" >\
+      <div id="s-Text_12" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="144.7px" datasizeheight="19.0px" dataX="330.0" dataY="405.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -684,11 +699,11 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Input_12" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="170.0px" datasizeheight="46.0px" dataX="502.0" dataY="404.5" ><div class="backgroundLayer">\
+      <div id="s-Input_12" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="170.0px" datasizeheight="46.0px" dataX="502.0" dataY="391.5" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Lorem ipsum"/></div></div>  </div></div></div>\
-      <div id="s-Text_13" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="175.8px" datasizeheight="19.0px" dataX="763.0" dataY="418.0" >\
+      <div id="s-Text_13" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="175.8px" datasizeheight="19.0px" dataX="763.0" dataY="405.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -703,13 +718,13 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Input_13" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="170.0px" datasizeheight="46.0px" dataX="980.0" dataY="404.5" ><div class="backgroundLayer">\
+      <div id="s-Input_13" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="170.0px" datasizeheight="46.0px" dataX="980.0" dataY="391.5" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Lorem ipsum"/></div></div>  </div></div></div>\
 \
       <div id="s-Checkbox_9" class="group firer ie-background commentable non-processed" customid="Checkbox_1" datasizewidth="22.0px" datasizeheight="22.0px" >\
-        <div id="s-Rectangle_17" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="38.0" dataY="485.0" >\
+        <div id="s-Rectangle_17" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="38.0" dataY="472.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -725,7 +740,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_10" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="44.0" dataY="492.0" aspectRatio="0.8181818"   alt="image" systemName="./images/ab4e2a36-bfe1-48fe-842d-2a40da1f2b28.svg" overlay="#FFFFFF">\
+        <div id="s-Image_10" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="44.0" dataY="479.0" aspectRatio="0.8181818"   alt="image" systemName="./images/971380b4-b02f-4637-95dc-8df0cefe7b5f.svg" overlay="#FFFFFF">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -747,12 +762,12 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Hotspot_9" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="38.0" dataY="485.0"  >\
+        <div id="s-Hotspot_9" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="38.0" dataY="472.0"  >\
           <div class="clickableSpot"></div>\
         </div>\
       </div>\
 \
-      <div id="s-Text_14" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="161.5px" datasizeheight="19.0px" dataX="76.3" dataY="487.0" >\
+      <div id="s-Text_14" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="161.5px" datasizeheight="19.0px" dataX="76.3" dataY="474.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -767,7 +782,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Text_15" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="144.7px" datasizeheight="19.0px" dataX="330.0" dataY="487.0" >\
+      <div id="s-Text_15" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="144.7px" datasizeheight="19.0px" dataX="330.0" dataY="474.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -782,11 +797,11 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Input_14" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="170.0px" datasizeheight="46.0px" dataX="502.0" dataY="473.5" ><div class="backgroundLayer">\
+      <div id="s-Input_14" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="170.0px" datasizeheight="46.0px" dataX="502.0" dataY="460.5" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Lorem ipsum"/></div></div>  </div></div></div>\
-      <div id="s-Text_16" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="175.8px" datasizeheight="19.0px" dataX="763.0" dataY="487.0" >\
+      <div id="s-Text_16" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="175.8px" datasizeheight="19.0px" dataX="763.0" dataY="474.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -801,13 +816,13 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Input_15" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="170.0px" datasizeheight="46.0px" dataX="985.0" dataY="473.5" ><div class="backgroundLayer">\
+      <div id="s-Input_15" class="pie text firer commentable non-processed" customid="Input_4"  datasizewidth="170.0px" datasizeheight="46.0px" dataX="985.0" dataY="460.5" ><div class="backgroundLayer">\
         <div class="colorLayer"></div>\
         <div class="imageLayer"></div>\
       </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="" maxlength="100"  tabindex="-1" placeholder="Lorem ipsum"/></div></div>  </div></div></div>\
 \
       <div id="s-Checkbox_10" class="group firer ie-background commentable non-processed" customid="Checkbox_1" datasizewidth="22.0px" datasizeheight="22.0px" >\
-        <div id="s-Rectangle_18" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="38.0" dataY="548.0" >\
+        <div id="s-Rectangle_18" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="38.0" dataY="535.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -823,7 +838,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_11" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="44.0" dataY="555.0" aspectRatio="0.8181818"   alt="image" systemName="./images/49030fe9-9a41-4019-a4a0-ba283821b363.svg" overlay="#FFFFFF">\
+        <div id="s-Image_11" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="44.0" dataY="542.0" aspectRatio="0.8181818"   alt="image" systemName="./images/39136b3f-c420-4bae-85dc-d07f8b7bf5b8.svg" overlay="#FFFFFF">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -845,12 +860,12 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Hotspot_10" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="38.0" dataY="548.0"  >\
+        <div id="s-Hotspot_10" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="38.0" dataY="535.0"  >\
           <div class="clickableSpot"></div>\
         </div>\
       </div>\
 \
-      <div id="s-Text_17" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="94.9px" datasizeheight="19.0px" dataX="79.4" dataY="550.0" >\
+      <div id="s-Text_17" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="94.9px" datasizeheight="19.0px" dataX="79.4" dataY="537.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -865,7 +880,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Text_18" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="147.8px" datasizeheight="19.0px" dataX="330.0" dataY="550.0" >\
+      <div id="s-Text_18" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="147.8px" datasizeheight="19.0px" dataX="330.0" dataY="537.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -882,12 +897,12 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
       <div id="s-Counter-field" class="group firer ie-background commentable non-processed" customid="Counter-field" datasizewidth="64.0px" datasizeheight="46.0px" >\
-        <div id="s-counter" class="pie text firer commentable non-processed" customid="counter"  datasizewidth="64.0px" datasizeheight="46.0px" dataX="502.0" dataY="536.5" ><div class="backgroundLayer">\
+        <div id="s-counter" class="pie text firer commentable non-processed" customid="counter"  datasizewidth="64.0px" datasizeheight="46.0px" dataX="502.0" dataY="523.5" ><div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
         </div><div class="borderLayer"><div class="paddingLayer"><div class="content"><div class="valign"><input type="text"  value="50" maxlength="100" readonly="readonly" tabindex="-1" placeholder=""/></div></div>  </div></div></div>\
 \
-        <div id="s-Image_12" class="pie image firer click ie-background commentable non-processed" customid="Image_3"   datasizewidth="13.0px" datasizeheight="8.0px" dataX="544.0" dataY="566.5"   alt="image" systemName="./images/1dfe637d-0ae1-4ab5-b61c-d72d5974d251.svg" overlay="#777777">\
+        <div id="s-Image_12" class="pie image firer click ie-background commentable non-processed" customid="Image_3"   datasizewidth="13.0px" datasizeheight="8.0px" dataX="544.0" dataY="553.5"   alt="image" systemName="./images/eb22c24b-ce09-4843-80af-80ce305ff135.svg" overlay="#777777">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -912,7 +927,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
         </div>\
 \
 \
-        <div id="s-Image_13" class="pie image firer click ie-background commentable non-processed" customid="Image_4"   datasizewidth="13.0px" datasizeheight="8.0px" dataX="544.0" dataY="545.5"  rotationdeg="180" alt="image" systemName="./images/3172a49b-189d-483e-8e96-bd74476dd891.svg" overlay="#777777">\
+        <div id="s-Image_13" class="pie image firer click ie-background commentable non-processed" customid="Image_4"   datasizewidth="13.0px" datasizeheight="8.0px" dataX="544.0" dataY="532.5"  rotationdeg="180" alt="image" systemName="./images/d7874cbb-6acd-4f7d-af60-e59d32261a23.svg" overlay="#777777">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -938,7 +953,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
 \
       </div>\
 \
-      <div id="s-Text_19" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="136.2px" datasizeheight="19.0px" dataX="328.4" dataY="605.0" >\
+      <div id="s-Text_19" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="136.2px" datasizeheight="19.0px" dataX="328.4" dataY="592.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -955,7 +970,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
       <div id="s-Checkbox_11" class="group firer ie-background commentable non-processed" customid="Checkbox_1" datasizewidth="22.0px" datasizeheight="22.0px" >\
-        <div id="s-Rectangle_19" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="511.5" dataY="603.0" >\
+        <div id="s-Rectangle_19" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="511.5" dataY="590.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -971,7 +986,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_14" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="517.5" dataY="610.0" aspectRatio="0.8181818"   alt="image" systemName="./images/03ff597c-747e-4b30-b347-6d1535adfae2.svg" overlay="#FFFFFF">\
+        <div id="s-Image_14" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="517.5" dataY="597.0" aspectRatio="0.8181818"   alt="image" systemName="./images/2ceb702b-7f69-444c-a902-1c220b7e3324.svg" overlay="#FFFFFF">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -993,12 +1008,12 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Hotspot_11" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="511.5" dataY="603.0"  >\
+        <div id="s-Hotspot_11" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="511.5" dataY="590.0"  >\
           <div class="clickableSpot"></div>\
         </div>\
       </div>\
 \
-      <div id="s-Text_20" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="133.4px" datasizeheight="19.0px" dataX="551.0" dataY="605.0" >\
+      <div id="s-Text_20" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="133.4px" datasizeheight="19.0px" dataX="551.0" dataY="592.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -1015,7 +1030,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
       <div id="s-Checkbox_12" class="group firer ie-background commentable non-processed" customid="Checkbox_1" datasizewidth="22.0px" datasizeheight="22.0px" >\
-        <div id="s-Rectangle_20" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="718.0" dataY="603.0" >\
+        <div id="s-Rectangle_20" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="718.0" dataY="590.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -1031,7 +1046,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_15" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="724.0" dataY="610.0" aspectRatio="0.8181818"   alt="image" systemName="./images/6320e458-ae9a-4524-a4dd-0bc5549002b4.svg" overlay="#FFFFFF">\
+        <div id="s-Image_15" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="724.0" dataY="597.0" aspectRatio="0.8181818"   alt="image" systemName="./images/2c0c644b-e3c3-4d44-9cb7-913eef8c252d.svg" overlay="#FFFFFF">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -1053,12 +1068,12 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Hotspot_12" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="718.0" dataY="603.0"  >\
+        <div id="s-Hotspot_12" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="718.0" dataY="590.0"  >\
           <div class="clickableSpot"></div>\
         </div>\
       </div>\
 \
-      <div id="s-Text_21" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="111.5px" datasizeheight="19.0px" dataX="752.0" dataY="605.0" >\
+      <div id="s-Text_21" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="111.5px" datasizeheight="19.0px" dataX="752.0" dataY="592.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -1075,7 +1090,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
       <div id="s-Checkbox_13" class="group firer ie-background commentable non-processed" customid="Checkbox_1" datasizewidth="22.0px" datasizeheight="22.0px" >\
-        <div id="s-Rectangle_21" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="904.0" dataY="603.0" >\
+        <div id="s-Rectangle_21" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="904.0" dataY="590.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -1091,7 +1106,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_16" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="910.0" dataY="610.0" aspectRatio="0.8181818"   alt="image" systemName="./images/3be780b6-c557-47e4-9400-78aeffa11a1d.svg" overlay="#FFFFFF">\
+        <div id="s-Image_16" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="910.0" dataY="597.0" aspectRatio="0.8181818"   alt="image" systemName="./images/ef16c7b9-8053-43cd-a091-8a4c6804d05d.svg" overlay="#FFFFFF">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -1113,12 +1128,12 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Hotspot_13" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="904.0" dataY="603.0"  >\
+        <div id="s-Hotspot_13" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="904.0" dataY="590.0"  >\
           <div class="clickableSpot"></div>\
         </div>\
       </div>\
 \
-      <div id="s-Text_22" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="68.0px" datasizeheight="19.0px" dataX="953.5" dataY="605.0" >\
+      <div id="s-Text_22" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="68.0px" datasizeheight="19.0px" dataX="953.5" dataY="592.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -1135,7 +1150,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
       <div id="s-Checkbox_14" class="group firer ie-background commentable non-processed" customid="Checkbox_1" datasizewidth="22.0px" datasizeheight="22.0px" >\
-        <div id="s-Rectangle_22" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="38.0" dataY="677.0" >\
+        <div id="s-Rectangle_22" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="38.0" dataY="664.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -1151,7 +1166,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_17" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="44.0" dataY="684.0" aspectRatio="0.8181818"   alt="image" systemName="./images/3964b84c-b80c-4125-9a5e-f2ad21f5b53c.svg" overlay="#FFFFFF">\
+        <div id="s-Image_17" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="44.0" dataY="671.0" aspectRatio="0.8181818"   alt="image" systemName="./images/88f07948-34be-4666-8c20-f7d89b047f5c.svg" overlay="#FFFFFF">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -1173,12 +1188,12 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Hotspot_14" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="38.0" dataY="677.0"  >\
+        <div id="s-Hotspot_14" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="38.0" dataY="664.0"  >\
           <div class="clickableSpot"></div>\
         </div>\
       </div>\
 \
-      <div id="s-Text_23" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="121.3px" datasizeheight="19.0px" dataX="79.4" dataY="679.0" >\
+      <div id="s-Text_23" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="121.3px" datasizeheight="19.0px" dataX="79.4" dataY="666.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -1195,7 +1210,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
       <div id="s-Checkbox_15" class="group firer ie-background commentable non-processed" customid="Checkbox_1" datasizewidth="22.0px" datasizeheight="22.0px" >\
-        <div id="s-Rectangle_23" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="329.0" dataY="677.0" >\
+        <div id="s-Rectangle_23" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="329.0" dataY="664.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -1211,7 +1226,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_18" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="335.0" dataY="684.0" aspectRatio="0.8181818"   alt="image" systemName="./images/556d2e8f-961e-41ac-96ed-9997adaa0a69.svg" overlay="#FFFFFF">\
+        <div id="s-Image_18" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="335.0" dataY="671.0" aspectRatio="0.8181818"   alt="image" systemName="./images/9bd179f1-e29f-449e-b1e5-e3394ca4b1e5.svg" overlay="#FFFFFF">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -1233,12 +1248,12 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Hotspot_15" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="329.0" dataY="677.0"  >\
+        <div id="s-Hotspot_15" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="329.0" dataY="664.0"  >\
           <div class="clickableSpot"></div>\
         </div>\
       </div>\
 \
-      <div id="s-Text_24" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="175.3px" datasizeheight="19.0px" dataX="376.3" dataY="679.0" >\
+      <div id="s-Text_24" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="175.3px" datasizeheight="19.0px" dataX="376.3" dataY="666.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -1255,7 +1270,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
       </div>\
 \
       <div id="s-Checkbox_16" class="group firer ie-background commentable non-processed" customid="Checkbox_1" datasizewidth="22.0px" datasizeheight="22.0px" >\
-        <div id="s-Rectangle_24" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="660.0" dataY="677.0" >\
+        <div id="s-Rectangle_24" class="pie rectangle manualfit firer commentable non-processed" customid="Rectangle_7"   datasizewidth="22.0px" datasizeheight="22.0px" datasizewidthpx="22.0" datasizeheightpx="22.0" dataX="660.0" dataY="664.0" >\
           <div class="backgroundLayer">\
             <div class="colorLayer"></div>\
             <div class="imageLayer"></div>\
@@ -1271,7 +1286,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Image_19" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="666.0" dataY="684.0" aspectRatio="0.8181818"   alt="image" systemName="./images/85fe04c3-f0c7-45ac-bde4-de4d7c1cd555.svg" overlay="#FFFFFF">\
+        <div id="s-Image_19" class="pie image lockV firer ie-background commentable non-processed" customid="Image_2"   datasizewidth="11.0px" datasizeheight="9.0px" dataX="666.0" dataY="671.0" aspectRatio="0.8181818"   alt="image" systemName="./images/3878a63b-dd9e-4b1f-b1fd-87ed66c91418.svg" overlay="#FFFFFF">\
           <div class="borderLayer">\
           	<div class="imageViewport">\
             	<?xml version="1.0" encoding="UTF-8"?>\
@@ -1293,12 +1308,12 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
 \
-        <div id="s-Hotspot_16" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="660.0" dataY="677.0"  >\
+        <div id="s-Hotspot_16" class="imagemap firer toggle ie-background commentable non-processed" customid="Hotspot_1"   datasizewidth="22.0px" datasizeheight="22.0px" dataX="660.0" dataY="664.0"  >\
           <div class="clickableSpot"></div>\
         </div>\
       </div>\
 \
-      <div id="s-Text_25" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="143.3px" datasizeheight="19.0px" dataX="699.0" dataY="679.0" >\
+      <div id="s-Text_25" class="pie richtext autofit firer ie-background commentable non-processed" customid="Text_1"   datasizewidth="143.3px" datasizeheight="19.0px" dataX="699.0" dataY="666.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -1313,7 +1328,7 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           </div>\
         </div>\
       </div>\
-      <div id="s-Rectangle_8" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_2"   datasizewidth="160.0px" datasizeheight="43.0px" datasizewidthpx="160.0" datasizeheightpx="43.0" dataX="1120.0" dataY="655.5" >\
+      <div id="s-Rectangle_8" class="pie rectangle manualfit firer click commentable non-processed" customid="Rectangle_2"   datasizewidth="160.0px" datasizeheight="43.0px" datasizewidthpx="160.0" datasizeheightpx="43.0" dataX="1120.0" dataY="665.5" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
@@ -1322,13 +1337,13 @@ var content='<div class="ui-page" deviceName="web" deviceType="desktop" deviceWi
           <div class="paddingLayer">\
             <div class="content">\
               <div class="valign">\
-                <span id="rtr-s-Rectangle_8_0">Switch to <br />Advanced Mode</span>\
+                <span id="rtr-s-Rectangle_8_0">Switch to <br />Basic Mode</span>\
               </div>\
             </div>\
           </div>\
         </div>\
       </div>\
-      <div id="s-Paragraph_4" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_2"   datasizewidth="419.0px" datasizeheight="67.0px" dataX="0.0" dataY="-2.0" >\
+      <div id="s-Paragraph_4" class="pie richtext manualfit firer ie-background commentable non-processed" customid="Paragraph_2"   datasizewidth="419.0px" datasizeheight="67.0px" dataX="0.0" dataY="0.0" >\
         <div class="backgroundLayer">\
           <div class="colorLayer"></div>\
           <div class="imageLayer"></div>\
